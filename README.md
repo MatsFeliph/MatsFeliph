@@ -1,6 +1,6 @@
 # Olá, prazer! 🤝
 <hr>
-Sou Mateus, iniciante na área da tecnologia.
+#Sou Mateus, iniciante na área da tecnologia.
 
 <p> Buscando ao máximo aprender cada vez mais a arte de codar e imergir no universo binário.. </p>
   
